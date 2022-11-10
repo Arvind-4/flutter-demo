@@ -1,1 +1,6 @@
-# flutter_course
+# Simple Flutter Demo
+
+### Screens
+
+- Home Screen
+- Contact Screen
